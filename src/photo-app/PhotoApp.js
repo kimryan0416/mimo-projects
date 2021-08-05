@@ -14,7 +14,7 @@ const PhotoApp = () => {
  });
  
  return (
-  <div>
+  <div className="PhotoApp">
    <h1>
     Interest in the Picturesque
    </h1>

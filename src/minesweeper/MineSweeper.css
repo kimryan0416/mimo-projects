@@ -1,15 +1,15 @@
-body {
+.Minesweeper {
   font-family:Arial, Helvetica, sans-serif;
 }
-button { 
+.Minesweeper button { 
   margin-right: 8px;
 }
 
-header {
+.Minesweeper header {
   margin-bottom:8px;
 }
 
-.board {
+.Minesweeper .board {
   display:flex;
   flex-direction:row;
   justify-content: flex-start;
@@ -18,7 +18,7 @@ header {
   background-color: white;
 }
 
-.column {
+.Minesweeper .column {
   display:flex;
   flex-direction:column;
   justify-content:flex-start;
@@ -26,7 +26,7 @@ header {
   flex-wrap:nowrap;
 }
 
-button.box {
+.Minesweeper button.box {
   display:flex;
   flex-direction: row;
   justify-content: center;
@@ -42,13 +42,13 @@ button.box {
   background-color: lightgray;
   font-size:0;
 }
-.box:hover {
+.Minesweeper .box:hover {
   cursor:pointer;
 }
-.box.revealed {
+.Minesweeper .box.revealed {
   font-size: initial;
   background-color: transparent;
 }
-.box.revealed.mine {
+.Minesweeper .box.revealed.mine {
   background-color: black;
 }

@@ -1,17 +1,17 @@
-body {
+.ToDoList {
  font-family: Arial, 'Courier New', Courier, monospace;
 }
-h1 {
+.ToDoList h1 {
  text-align:center;
 }
-div.header {
+.ToDoList div.header {
  display:flex;
  flex-direction: row;
  justify-content: space-between;
  align-items:center;
  flex-wrap: nowrap;
 }
-div.header input {
+.ToDoList div.header input {
  flex-grow:0;
  flex-shrink:1;
  flex-basis:100%;
@@ -20,7 +20,7 @@ div.header input {
  border-right:none;
  padding:4px 8px 4px 8px;
 }
-div.header button {
+.ToDoList div.header button {
  flex-grow:0;
  flex-shrink:0;
  margin-left:4px;
@@ -36,17 +36,17 @@ div.header button {
  background-color: rgb(167,217,20);
  color: white;
 }
-div.header button:hover {
+.ToDoList div.header button:hover {
  cursor:pointer;
  background-color:rgb(150,194,19);
 }
 
-ul {
+.ToDoList ul {
  list-style: none;
  padding-left:8px;
  padding-right:8px;
 }
-li.task {
+.ToDoList li.task {
  padding-top:8px;
  padding-bottom:8px;
  border-bottom: 1px solid rgba(0,0,0,0.2);
@@ -58,7 +58,7 @@ li.task {
  align-items:flex-start;
  flex-wrap:nowrap;
 }
-li.task input {
+.ToDoList li.task input {
  margin-top:2px;
  margin-bottom:0px;
  margin-right:8px;

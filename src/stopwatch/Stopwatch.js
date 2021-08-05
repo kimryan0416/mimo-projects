@@ -54,7 +54,7 @@ class Stopwatch extends React.Component {
   if (sec <= 9) sec = "0" + sec;
 
     return (
-      <main>
+      <main className="Stopwatch">
         <h3>React Stopwatch</h3>
         <section>
           <h1>

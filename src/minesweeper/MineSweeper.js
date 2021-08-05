@@ -8,12 +8,14 @@ const MineSweeper = () => {
  const mines = 15;
 
  return (
-  <Board 
-   width={width}
-   height={height}
-   mines={mines}
-  />
- );
+    <div className="Minesweeper">
+        <Board 
+            width={width}
+            height={height}
+            mines={mines}
+        />
+    </div>
+);
 }
 
 export default MineSweeper;

@@ -1,12 +1,10 @@
-html, body, .root {
- margin:0px;
- font-family: Arial, Helvetica, sans-serif;
- text-align:center;
-}
+.Stopwatch {
+    width: 100%;
 
-main {
  padding:32px;
  box-sizing:border-box;
+ font-family: Arial, Helvetica, sans-serif;
+ text-align:center;
 
  display:flex;
  flex-direction:column;
@@ -15,11 +13,11 @@ main {
  text-align:center;
 }
 
-h3 {
+.Stopwatch h3 {
  margin-top:0px;
 }
 
-section {
+.Stopwatch section {
  width:100%;
  background-color: lightblue;
  padding:8px 32px 8px 32px;
@@ -28,15 +26,16 @@ section {
  border-radius:8px;
  border: 2px solid rgb(160,160,160);
 }
-section h1 {
+.Stopwatch section h1 {
  margin:0px;
 }
-section h1 span {
+.Stopwatch section h1 span {
  font-size:0.5em;
 }
 
-button {
- padding:8px 16px 8px 16px;
+.Stopwatch button {
+ padding:4px 8px 4px 8px;
+ text-align: center;
  border-radius:8px;
  margin-left:1%;
  margin-right:1%;
@@ -44,7 +43,7 @@ button {
  background-color: rgb(240,240,240);
  width:30%;
 }
-button:hover {
+.Stopwatch button:hover {
  cursor:pointer;
  background-color: rgb(220,220,220);
 }
