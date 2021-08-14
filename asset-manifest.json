@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mimo-projects/static/css/main.6939253a.chunk.css",
+    "main.css": "/mimo-projects/static/css/main.2bc16756.chunk.css",
     "main.js": "/mimo-projects/static/js/main.234bb960.chunk.js",
     "main.js.map": "/mimo-projects/static/js/main.234bb960.chunk.js.map",
     "runtime-main.js": "/mimo-projects/static/js/runtime-main.2caaf475.js",
@@ -10,13 +10,13 @@
     "static/js/3.f817d0e1.chunk.js": "/mimo-projects/static/js/3.f817d0e1.chunk.js",
     "static/js/3.f817d0e1.chunk.js.map": "/mimo-projects/static/js/3.f817d0e1.chunk.js.map",
     "index.html": "/mimo-projects/index.html",
-    "static/css/main.6939253a.chunk.css.map": "/mimo-projects/static/css/main.6939253a.chunk.css.map",
+    "static/css/main.2bc16756.chunk.css.map": "/mimo-projects/static/css/main.2bc16756.chunk.css.map",
     "static/js/2.c2a39a27.chunk.js.LICENSE.txt": "/mimo-projects/static/js/2.c2a39a27.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2caaf475.js",
     "static/js/2.c2a39a27.chunk.js",
-    "static/css/main.6939253a.chunk.css",
+    "static/css/main.2bc16756.chunk.css",
     "static/js/main.234bb960.chunk.js"
   ]
 }
