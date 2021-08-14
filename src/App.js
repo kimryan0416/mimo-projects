@@ -33,7 +33,7 @@ const Home = () => {
   return (
     <div className="AppMenu">
       <h1>Menu</h1>
-      <p className="marginBottom4px">Students using M1M0 to learn React had to complete four projects that focused on concepts and skills taught on the M1M0 platform. The project code has been emulated here in their complete forms.</p>
+      <p className="marginBottom4px">Students using M1M0 to learn React had to complete three projects that focused on concepts and skills taught on the M1M0 platform. An additional fourth project was planned but was scrapped, though the project code still remains. The project code has been emulated here in their complete forms.</p>
       <nav>
         <ul>
           <li>
