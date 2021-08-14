@@ -4,8 +4,8 @@
 
 .App {
   position: relative;
-  width: 256px;
-  height: 454.4px;
+  max-width: 256px;
+  max-height: 500px;
   background-color: white;
   border: 1px solid rgb(220,220,220);
   overflow: hidden;
