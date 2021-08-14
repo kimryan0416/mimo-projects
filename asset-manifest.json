@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mimo-projects/static/css/main.6939253a.chunk.css",
-    "main.js": "/mimo-projects/static/js/main.356c8092.chunk.js",
-    "main.js.map": "/mimo-projects/static/js/main.356c8092.chunk.js.map",
+    "main.js": "/mimo-projects/static/js/main.234bb960.chunk.js",
+    "main.js.map": "/mimo-projects/static/js/main.234bb960.chunk.js.map",
     "runtime-main.js": "/mimo-projects/static/js/runtime-main.2caaf475.js",
     "runtime-main.js.map": "/mimo-projects/static/js/runtime-main.2caaf475.js.map",
     "static/js/2.c2a39a27.chunk.js": "/mimo-projects/static/js/2.c2a39a27.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2caaf475.js",
     "static/js/2.c2a39a27.chunk.js",
     "static/css/main.6939253a.chunk.css",
-    "static/js/main.356c8092.chunk.js"
+    "static/js/main.234bb960.chunk.js"
   ]
 }
